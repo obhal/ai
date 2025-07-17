@@ -1,0 +1,14 @@
+[
+  {
+    "id": "dr1",
+    "name": "Dr. Sharma",
+    "specialty": "Dermatologist",
+    "slots": ["3 PM", "4:30 PM", "6 PM"]
+  },
+  {
+    "id": "dr2",
+    "name": "Dr. Reddy",
+    "specialty": "Dermatologist",
+    "slots": ["2 PM", "3:30 PM", "5 PM"]
+  }
+]
